@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/cdk": "^19.2.6",
+    "primeicons": "^7.0.0",
+    "primeng": "^19.0.10"
+  }
+}
